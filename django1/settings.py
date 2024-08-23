@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-d^1qwckhm9(5*z*ne&h41%7z6=#%f&%5t1j@@!w=s$!9xe24&2
 #Debug com valor False = modo produção ( Publicado, pronto para uso!) (Utiliza o staticfiles)
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']  # Nesse asterisco pode ser inserido o local onde vai ser feito o deploy.
+ALLOWED_HOSTS = ['djangostudy-2.onrender.com']  # Nesse asterisco pode ser inserido o local onde vai ser feito o deploy.
 
 
 # Application definition
